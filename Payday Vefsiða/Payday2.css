@@ -1,0 +1,21 @@
+body{
+	background-image: url("payday2.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	display: flex;
+	flex-flow: column;
+}
+nav{
+	margin-top: 14em;
+}
+.border{
+	border: solid blue;
+	background-color: white;
+}
+.linkborder{
+	border: solid green;
+	margin-top: 6em;
+	font-size: 24px;
+}
+a{text-decoration: none}
