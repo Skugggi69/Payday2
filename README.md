@@ -2,13 +2,4 @@
 Hópverkefni fyrir payday2 :Þ
 
 
-Verkefni Eftir Ólaf og Þórarinn
-
-Þetta er um fps leik sem fjallar um að ræna bánka og fleyri vonda hluti
-
-
-
-
-Þórarin: Ritgerð,Vefsíðan og Heimildir
-
-Ólafur : Heimildir.Skrifaði um Charegters og óvini,mynidr
+Payday 2 er samstarfsverkefna fyrstu persónu skotleikur(FPS). Gerður af Overkill Software - a Starbreeze Studio og gefinn út af 505 Games. Útkomudagur var 13. Ágúst 2013 fyrir Microsoft Windows, Playstation 3, og Xbox360, síðan kom betri útgáfa nefnd Crimewave Edition fyrir PlayStation 4 og Xbox One í Júní 2015(12. í Bretlandi og 16. í Bandaríkjunum). Árið 2016 var sagt að þeir myndu hætta að framleiða leikinn, en þeir gerðu það ekki. Leikurinn var mögulega fyrir 15-20 ára spilara. Leikurinn samanstendur af ‘ránum’ sem leikmen geta valið og stjórna hvernig þeir vilja gera ránið. Leikmen geta spilað einir, með tölvustjórnuðum leikmönnum eða öðru fólki á netinu(allt að fjórir(4) leikmenn í einu). það er hægt að ræna banka, smygla eiturlyfjum, hjálpað með kosningar, eða stela smygluðum kjarnorku sprengjum. sum rán bjóða upp á að gera ránið hljóðlega. Þegar það er búið að gera rán, þá er talið upp hvað þú gerðir í því ráni og færð Experience Points(EXP) og "payday" sem eru bara þrjú(3) spil sem gefur "safes", pening, exp, boosters, grímur, málningu, efni(fyrir grímur t.d. járn eða tré etc.), mynstur(sem þú setur málnungu á til að lita mynstrið) eða byssu viðhengi. 80% af peningnum sem maður fær fer inn í "offline shore account" sem þú notar í að kaupa contracts(rán) líka í "offline paydays". í leiknum munt þú vera berjast við almenna lögreglu, F.B.I., S.W.A.T., öryggisverði, Zeal-Force, Murkywater(Einkaher) og glæpamenn. Sumir lögreglumenn eru koma með sérstakan búnað eða sérsaklega þjálfaðir, þeir eru; cloaker(getur komið hvar sem er, og getur tekið mann niður með sparki), Tazer(notar rafmagns byssu til að stöðva mann), Medic(notar fyrstu hjálp til að lækna vini sína), Bulldozer(vopnaður léttri vélbyssu eða haglabyssu og klæddir í sprengjugalla sem apperently virkar eins og bulletproof vesti), Sniper(sem er á þökum eða inn í gluggum og mjög augljósan laser), Swat bíll með vélbyssu ofan á sér, skyldir(með stóran skjöld fyrir framan sig) og Captian Winters(lögreglu stjóri með skjöld og hjörð af skjöldum í kringum hann, Winters sjálfur deyr aldrei, heldur labbar hann bara rólega í burtu, og hann gefur löggum boost og heldur assault wave í gangi allan tíman þangað til hann fer útaf damage-i).
